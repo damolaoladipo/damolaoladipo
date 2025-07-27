@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Damola Oladipo
+## 👋 Hi, I’m Damola Oladipo
 
 I write **TypeScript** and build modern backend systems with **Node.js**, **Express**, and **RESTful APIs**. I'm also experienced with **MongoDB**, **PostgreSQL**, and working in **cloud-native environments** (AWS, Docker).
 
