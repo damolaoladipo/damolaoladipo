@@ -40,10 +40,11 @@ I write **TypeScript** and build modern backend systems with **Node.js**, **Expr
 ----
 🔥 <b>Streak Stats</b> <br>
 <p align="center">
-<a href='../../../'>
- <img height='180em' src='https://github-readme-streak-stats.herokuapp.com/?user=damolaoladipo&theme=onedark&hide_border=true'>
-</a>
+  <a href="https://github.com/damolaoladipo">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=damolaoladipo&theme=onedark&hide_border=true" />
+  </a>
 </p>
+
 
 ----
 <h3 align="left">Github Profile Trophy:</h3>
