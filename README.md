@@ -25,6 +25,18 @@ I write **TypeScript** and build modern backend systems with **Node.js**, **Expr
  
 </p>
 
+<!--
+<p align="center">
+  <a href="https://github.com/damolaoladipo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damolaoladipo&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/damolaoladipo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damolaoladipo&theme=onedark&hide_border=true&layout=compact&langs_count=5" />
+  </a>
+</p>
+-->
+
+
 ----
 🔥 <b>Streak Stats</b> <br>
 <p align="center">
