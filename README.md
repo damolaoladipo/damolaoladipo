@@ -1,16 +1,30 @@
 
-## 👋 Hi, I’m Damola Oladipo
+## Hello 👋
 
-I write **TypeScript** and build modern backend systems with **Node.js**, **Express**, and **RESTful APIs**. I'm also experienced with **MongoDB**, **PostgreSQL**, and working in **cloud-native environments** (AWS, Docker).
+### I’m Damola Oladipo
 
-- 👀 I’m interested in **Product Engineer** roles
-- ⚙️ I focus on **Mobile** and **Backend** Development
+ I write **TypeScript** and build modern backend systems with **Node.js**, **Express**, and **RESTful APIs**. I'm also experienced with **MongoDB**, **PostgreSQL**, and working in **cloud-native environments** (AWS, Docker).
+
+- 👀 I'm a **Product Engineer**
+- 📝 I write **TypeScript**, **React**, **React Native**, **Node.js**
+- ⚙️ I work in between **mobile**, **web** and **backend** Development
 - 🌱 Currently learning **Rust**
-- 💞️ Looking to collaborate on **Open Source Projects**
-- 🔗 Reach me on [LinkedIn](https://www.linkedin.com/in/damolaoladipo) or [Twitter](https://twitter.com/damolaoladipo)
 - 📫 Email me at: iam@damolaoladipo.com
 ----
 
+#### 🚀 My Products
+- [Pacepard](https://www.pacepard.com): Learn and grow by doing as you build Open Source Softwares and AI/ML Products
+- [Troott](https://www.troott.com): The new mobile space for sermons and teachings. Listen anywhere!
+- [Lens](https://www.lens.pacepard.com): The open-source ML toolkit for policies, have conversations on Facts
+
+----
+
+#### 🌐 Follow me on
+- [LinkedIn](https://www.linkedin.com/in/damolaoladipo)
+- [Twitter](https://twitter.com/damolaoladipo)
+- [Youtube](https://youtube.com/damolaoladipo)
+
+----
 ![](https://komarev.com/ghpvc/?username=damolaoladipo&color-blue) 
 
 ----
@@ -34,8 +48,6 @@ I write **TypeScript** and build modern backend systems with **Node.js**, **Expr
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damolaoladipo&theme=onedark&hide_border=true&layout=compact&langs_count=5" />
   </a>
 </p>
--->
-
 
 ----
 🔥 <b>Streak Stats</b> <br>
@@ -45,7 +57,7 @@ I write **TypeScript** and build modern backend systems with **Node.js**, **Expr
   </a>
 </p>
 
-
+<!--
 ----
 <h3 align="left">Github Profile Trophy:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damolaoladipo&theme=onedark" alt="Damola" /></a> </p>
