@@ -7,6 +7,7 @@
 - 📝 I write **TypeScript**, **React**, **React Native**, and **Node.js**
 - ⚙️ I work in between **mobile**, **web** and **backend** Development
 - 🌱 Currently learning **Rust**
+- 👤Find out more about me here: [damolaoladipo.com](https://www.damolaoladipo.com)
 - 📫 Email me at: iam@damolaoladipo.com
 ----
 
