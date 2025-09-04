@@ -3,10 +3,8 @@
 
 ### I’m Damola Oladipo
 
- I write **TypeScript** and build modern backend systems with **Node.js**, **Express**, and **RESTful APIs**. I'm also experienced with **MongoDB**, **PostgreSQL**, and working in **cloud-native environments** (AWS, Docker).
-
 - 👀 I'm a **Product Engineer**
-- 📝 I write **TypeScript**, **React**, **React Native**, **Node.js**
+- 📝 I write **TypeScript**, **React**, **React Native**, and **Node.js**
 - ⚙️ I work in between **mobile**, **web** and **backend** Development
 - 🌱 Currently learning **Rust**
 - 📫 Email me at: iam@damolaoladipo.com
