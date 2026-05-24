@@ -3,7 +3,7 @@
 
 ### I’m Damola Oladipo
 
-- 👀 I'm a **Product Engineer**
+- 👀 I'm a **Growth Engineer**
 - 📝 I write **Go**,**TypeScript**, **React**, **React Native**, and **Node.js**
 - ⚙️ I work in between **mobile**, **web** and **backend** Development
 - 🌱 Currently learning **Rust**
