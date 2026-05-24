@@ -26,6 +26,7 @@
 ----
 ![](https://komarev.com/ghpvc/?username=damolaoladipo&color-blue) 
 
+<!--
 ----
 ### GitHub Stats :
 
