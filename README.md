@@ -4,14 +4,14 @@
 ### I’m Damola Oladipo
 
 - 👀 I'm a **Product Engineer**
-- 📝 I write **TypeScript**, **React**, **React Native**, and **Node.js**
+- 📝 I write **Go**,**TypeScript**, **React**, **React Native**, and **Node.js**
 - ⚙️ I work in between **mobile**, **web** and **backend** Development
 - 🌱 Currently learning **Rust**
 - 👤Find out more about me here: [damolaoladipo.com](https://www.damolaoladipo.com)
-- 📫 Email me at: iam@damolaoladipo.com
+- 📫 Email me at: mail@damolaoladipo.com
 ----
 
-#### 🚀 My Products
+#### 🚀 Where I have worked
 - [Pacepard](https://www.pacepard.com): Learn and grow by doing as you build Open Source Softwares and AI/ML Products
 - [Troott](https://www.troott.com): The new mobile space for sermons and teachings. Listen anywhere!
 - [Lens](https://www.lens.pacepard.com): The open-source ML toolkit for policies, have conversations on Facts
